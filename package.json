@@ -1,0 +1,11 @@
+{
+  "name": "libp2p",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arcinston/libp2p.git",
+  "author": "Arush Kurundodi",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
